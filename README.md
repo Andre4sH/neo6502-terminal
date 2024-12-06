@@ -4,7 +4,7 @@ Read more about the ZiModem firmware here: https://github.com/bozimmerman/Zimode
 
 # How to use
 1. Connect ESP8266 module to your computer
-2. Load the program by typing: 'load "terminal.bas"'
-3. Start the program by typing: 'run'
-4. Type 'ATI' to see if your WiFi is connected
-5. To dail a BBS type: 'ATDT <BBS IP-ADDRESS>'
+2. Load the program by typing: load "terminal.bas"
+3. Start the program by typing: run
+4. Type ATI to see if your WiFi is connected
+5. To dail a BBS type: ATDT BBS-IP-ADDRESS
